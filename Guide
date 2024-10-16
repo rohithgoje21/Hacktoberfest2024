@@ -1,0 +1,140 @@
+Hacktoberfest-2024
+Check out this project as well: Annoying Button😡. It's Hacktoberfest GitHub repo: https://github.com/fineanmol/Annoying-submit-button
+
+Submit your PR on this new repo Hacktoberfest. We are merging all PRs there.
+In this current repo, there are a lot of conflicts; we are not merging until all conflicts are resolved. Hacktoberfest { Live Website }
+
+This is a beginner-friendly project to help you get started with your Hacktoberfest. If you don't know where to start, feel free to watch the videos linked below and read the contribution rules. Happy Learning <3 💙 !!
+
+P.S. Star ⭐ and share this repository if you had fun!! 😍
+
+Hacktoberfest 2024 Event Completed
+
+📌 Videos 📽️:
+Hacktoberfest Intro
+How to pull request [Overview]
+Merge Conflict / comment
+Contribution Rules📚:
+You are allowed to make pull requests that break the rules. We just merge it ;)
+Do NOT add any build steps, e.g., npm install (we want to keep this a simple static site)
+Do NOT remove other content.
+Styling/code can be pretty, ugly, or stupid, big or small, as long as it works
+Try to keep pull requests small to minimize merge conflicts
+Getting Started 🤩🤗:
+Fork this repo (button on top)
+Clone it on your local machine
+git clone https://github.com/fineanmol/Hacktoberfest2024.git
+Navigate to the project directory.
+cd Hacktoberfest2024
+Create a new branch
+git checkout -b my-new-branch
+git add .
+Commit your changes.
+git commit -m "Relevant message"
+Then push
+git push origin my-new-branch
+Create a new pull request from your forked repository
+
+Avoid Conflicts {Syncing your fork}
+An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PRs may be merged while you're working on your branch/fork.
+
+git remote add upstream https://github.com/fineanmol/Hacktoberfest2024
+You can verify that the new remote has been added by typing:
+
+git remote -v
+To pull any new changes from your parent repo, simply run:
+
+git merge upstream/master
+This will give you any eventual conflicts and allow you to easily solve them in your repo. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
+
+For more information on syncing forks, read this article from GitHub.
+
+Swags of Hacktoberfest:
+Many candidates get attracted to Hacktoberfest for the swags. After 4 successfully merged pull requests, as of 2024, you will be eligible to get a Hacktoberfest T-shirt and some stickers delivered to your doorstep.
+
+t-shirt image
+
+stickers image
+
+FAQs (Frequently Asked Questions)
+Who all can contribute?
+Anyone with a GitHub account and who is signed up for Hacktoberfest :)
+Are you getting paid for this?
+Sadly, no. But we think we should. This is 100% unofficial, and we do it for fun, fame, and glory.
+Who are you, and why are you doing this?
+We are two programmers from India, Anmol and Ritesh. We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
+Why are you not using DigitalOcean?
+Because we only know JavaScript and suck at servers. We use now instead.
+Should I come closer to the text saying 'Don't come closer' on the left side of the home tab?
+Nope.
+How many pull requests (PRs) must be made if I want to get an awesome T-shirt from Hacktoberfest 2024?
+4
+How do I track my progress to get an awesome shirt from Hacktoberfest 2024?
+Go to:. (Check out your own stats at the top right)
+What is the duration of Hacktoberfest 2024?
+It is from 1st October to 31st October 2024.
+What is the event for?
+For open source community engagement and to learn how to contribute to open source.
+We will do our best to merge as much as possible from everyone. However, time is limited, and the merge conflicts are horrible 😲 <3
+
+Our Top Contributors
+
+
+About
+Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
+
+fineanmol.github.io/Hacktoberfest2024/
+Topics
+github digitalocean opensource osc pull-request hacktoberfest opensource-projects opensourcecode hacktoberfest-accepted hacktoberfest-approved hacktoberfest2023
+Resources
+ Readme
+License
+ GPL-3.0 license
+Code of conduct
+ Code of conduct
+ Activity
+Stars
+ 2.4k stars
+Watchers
+ 9 watching
+Forks
+ 7.7k forks
+Report repository
+Releases 2
+Redesigned Website
+Latest
+on Oct 9, 2022
++ 1 release
+Contributors
+1,073
+@fineanmol
+@fineanmolwork
+@rishabhrathore055
+@shreeyachatzz
+@shubhraagarwal
+@whatiskeptiname
+@tuminzee
+@visionjain2
+@ankur700
+@tanishha
+@OmanshArora
+@Anmol55555
+@vedsom
+@ImgBotApp
++ 1,059 contributors
+Deployments
+500+
+ github-pages last month
++ more deployments
+Languages
+JavaScript
+63.2%
+ 
+CSS
+25.6%
+ 
+HTML
+8.9%
+ 
+Python
+2.3%
